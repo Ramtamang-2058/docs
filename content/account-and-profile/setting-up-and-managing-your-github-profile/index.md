@@ -11,7 +11,7 @@ versions:
   ghae: '*'
   ghec: '*'
 topics:
-  - Profiles
+  - Ramtamang-2058
 children:
   - /customizing-your-profile
   - /managing-contribution-settings-on-your-profile
