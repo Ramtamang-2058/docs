@@ -7,6 +7,7 @@ versions:
 topics:
   - Issues
   - Projects
+  - Resolve issue
 children:
   - /learning-about-projects
   - /creating-projects
